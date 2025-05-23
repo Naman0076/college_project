@@ -109,7 +109,8 @@ python main.py
 
 ## 👨‍🎓 Project Members
 
-- Naman Kaushik (created the code and model) (2021335109)  
+- Naman Kaushik (created the code and model) (2021335109)
+- B.Tech CSE (AIML)
 - Final Year Student – Sharda University, Greater Noida
 
 ---
