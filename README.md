@@ -109,8 +109,8 @@ python main.py
 
 ## 👨‍🎓 Project Members
 
-- Naman (Your Name)  
-- Final Year Student – [Your Department], [Your University]
+- Naman Kaushik (created the code and model) (2021335109)  
+- Final Year Student – Sharda University, Greater Noida
 
 ---
 
