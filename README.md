@@ -1,4 +1,4 @@
-A Mobile Unit for Weather Monitoring and Prediction using IoT and Machine Learning
+**A Mobile Unit for Weather Monitoring and Prediction using IoT and Machine Learning**
 This project combines real-time weather data collection via IoT (ESP8266 + DHT11 sensor) and predictive analytics using a Long Short-Term Memory (LSTM) neural network in Python. The system reads live data from Firebase Firestore, simulates historical data, trains an LSTM model, and visualizes both actual and predicted weather parameters (temperature & humidity).
 
 🎯 Project Objectives
